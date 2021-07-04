@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Node.js"
+title: "Node.js Server"
 date: 2021-06-14 18:50:00 +0900
 categories: Node.Js
 ---
