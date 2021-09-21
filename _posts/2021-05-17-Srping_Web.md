@@ -18,7 +18,7 @@ Model2의 Controller(Action)부분을 보면 코드의 반복을 볼수 있다.
 
 이것을 컨트롤과 나눠 작성 할 수 있는데 이러한 것을 스프링에서 프레임워크로 제공해준다.
 
-![](publoc/img/../../../public/img/spring%20Web.png)
+![](https://bbung95.github.io/public/img/spring%20Web.png)
 
 각각 나눠진 코드의 내부를 보며 역활을 알아보자
 
